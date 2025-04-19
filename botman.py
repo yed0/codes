@@ -3,7 +3,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardBut
 import psycopg2
 from datetime import datetime
 
-TOKEN = "7627802768:AAFMZhBAcfcD_CbhoAsULPW-QOJzx3BllNM"
+TOKEN = ""
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
