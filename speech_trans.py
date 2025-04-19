@@ -6,7 +6,7 @@ from aiogram import Dispatcher, Bot, types
 
 
 
-Atoken = "7627802768:AAFMZhBAcfcD_CbhoAsULPW-QOJzx3BllNM"
+Atoken = ""
 
 bot = Bot(token=Atoken)
 dp = Dispatcher()
